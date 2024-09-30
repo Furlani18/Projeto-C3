@@ -1,0 +1,10 @@
+Nome: Gabriel Furlani
+Matricula: 123456
+Media: 7.53
+Status: Aprovado
+
+Nome: Adriano
+Matricula: 12345678
+Media: 7.40
+Status: Aprovado
+
